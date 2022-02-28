@@ -41,10 +41,10 @@ To use Employee Tracker simply follow the instructions. Once completed, open a t
 <!-- Testing -->
 <a name="testing"></a>
 ## Testing
-Insomnia Demonstration
+Insomnia Demonstration <br>
 ![gif](./Assets/demo/InsomniaDemo.gif)
 <br>
-Inquirer Demonstration
+Inquirer Demonstration <br>
 ![gif](./Assets/demo/ServerJsDemo.gif)
 
 To test Employee Tracker follow the [installation](#getting-started) and [usage](#Usage) instructions.
